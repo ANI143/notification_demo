@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "228772730789",
+    "project_id": "flutter-notification-d574d",
+    "storage_bucket": "flutter-notification-d574d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228772730789:android:cd4d0378194713e1e0ba4c",
+        "android_client_info": {
+          "package_name": "com.anitech.push_notiication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo-c1-gcTv3R1D-4gprD28tlNKHm8prFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
